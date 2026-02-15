@@ -21,5 +21,7 @@ This project analyzes employee attrition trends to identify key drivers affectin
 - Overtime significantly increases attrition
 - Salary hike positively impacts retention
 
+## Dashboard Preview
+![Dashboard Preview](hr_dashboard.png)
 
 
