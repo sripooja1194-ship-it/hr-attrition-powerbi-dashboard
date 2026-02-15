@@ -22,6 +22,7 @@ This project analyzes employee attrition trends to identify key drivers affectin
 - Salary hike positively impacts retention
 
 ## Dashboard Preview
-![Dashboard Preview](hr_dashboard.png)
+![Dashboard Preview]![Hr_dashboard](https://github.com/user-attachments/assets/f0c98d52-3e2d-47d9-b55f-4b5b03e76eb2)
+
 
 
