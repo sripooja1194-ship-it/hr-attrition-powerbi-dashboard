@@ -23,6 +23,7 @@ This project analyzes employee attrition trends to identify key drivers affectin
 
 ## Dashboard Preview
 ![Dashboard Preview]![Hr_dashboard](https://github.com/user-attachments/assets/f0c98d52-3e2d-47d9-b55f-4b5b03e76eb2)
+<img width="1004" height="548" alt="Screenshot 2026-02-17 201239" src="https://github.com/user-attachments/assets/e771f8cc-34ce-487f-8cd9-38ede9177bf3" />
 
 
 
